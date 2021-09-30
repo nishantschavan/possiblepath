@@ -1,0 +1,22 @@
+.board{
+    outline: 2px solid rgb(134, 154, 189);
+}
+
+.row{
+    height:50px;
+}
+
+.cell{
+    height:50px;
+    width: 50px;
+    outline:2px solid rgb(134, 154, 189);
+    display: inline-block;
+}
+
+.cell-orange{
+    background-color: orange;
+}
+
+.cell-red{
+    background-color: red;
+}
